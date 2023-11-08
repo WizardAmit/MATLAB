@@ -1,6 +1,6 @@
 # MATLAB
 
-## Simulation of Single-Stage-Compressor
+## Simulation of Single-Stage Reciprocating-Air-Compressor
 
 Utilising a single-stage compressor with a reciprocating compressor to pressurise the air is the major goal of the work
 
@@ -33,3 +33,50 @@ Companies who seek to compute results and efficiency to make final judgements ca
 ## Learnings:
 
 I gained insight into the individual phases and operational methods of a compressor throughout the process. Small adjustments can have a significant effect on the entire system. Additionally, this system's advantage over the one-stage compressor, which has higher power, performance, and complexity, is readily apparent.
+
+
+
+![Intial Values for Basic Calculations](https://github.com/WizardAmit/MATLAB/assets/150200139/1edb7a40-4c8f-4622-9fe0-71cfd3982a04)
+
+![Calculation for System Diagram](https://github.com/WizardAmit/MATLAB/assets/150200139/ec809ce0-6295-42bc-b2b6-782978120358)
+
+![3](https://github.com/WizardAmit/MATLAB/assets/150200139/f75df4c3-ee37-4bf4-9901-5adba8eec05c)
+
+![Work done](https://github.com/WizardAmit/MATLAB/assets/150200139/d55b235d-05af-448a-b500-de85d5ce676b)
+
+![7](https://github.com/WizardAmit/MATLAB/assets/150200139/d9214300-75ee-450a-b4dc-8cf15368bb97)
+
+![Graph-System Diagram](https://github.com/WizardAmit/MATLAB/assets/150200139/c1dae400-80b8-4642-929f-7cb6799b9fed)
+
+![2](https://github.com/WizardAmit/MATLAB/assets/150200139/07eca60c-0e4f-4443-b4e2-ad7718af850f)
+
+![4](https://github.com/WizardAmit/MATLAB/assets/150200139/c08ff0d3-d6be-42a4-87a5-6effd97e0abe)
+
+![5](https://github.com/WizardAmit/MATLAB/assets/150200139/603dfaf8-e0d1-4651-8eb7-28e4be30c2ee)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
