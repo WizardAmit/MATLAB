@@ -35,6 +35,7 @@ Companies who seek to compute results and efficiency to make final judgements ca
 I gained insight into the individual phases and operational methods of a compressor throughout the process. Small adjustments can have a significant effect on the entire system. Additionally, this system's advantage over the one-stage compressor, which has higher power, performance, and complexity, is readily apparent.
 
 
+
 # Codes and Output:
 
 ![Intial Values for Basic Calculations](https://github.com/WizardAmit/MATLAB/assets/150200139/1edb7a40-4c8f-4622-9fe0-71cfd3982a04)
